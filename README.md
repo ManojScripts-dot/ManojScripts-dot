@@ -1,4 +1,3 @@
-
 # 💫 About Me:
 Hello! I'm a Frontend Developer with a strong passion for creating clean, responsive, and user-friendly web interfaces.<br>I have experience working with modern technologies and frameworks to build scalable and efficient front-end solutions.<br>I'm committed to continuous learning and improvement, both in my professional work and personal interests.<br>When I'm not coding, I enjoy gaming and reading to stay inspired and creative.
 
@@ -12,7 +11,3 @@ Hello! I'm a Frontend Developer with a strong passion for creating clean, respon
 ![](https://github-readme-stats.vercel.app/api?username=ManojScripts-dot&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ManojScripts-dot&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ManojScripts-dot&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
