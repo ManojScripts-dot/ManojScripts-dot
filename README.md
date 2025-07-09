@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I'm a passionate Frontend Web Developer dedicated to crafting clean, responsive, and intuitive web interfaces. With a solid foundation in modern technologies and frameworks, I specialize in building scalable, high-performance front-end solutions that deliver exceptional user experiences.
+Hello! I'm a passionate Frontend Developer dedicated to crafting clean, responsive, and intuitive web interfaces. With a solid foundation in modern technologies and frameworks, I specialize in building scalable, high-performance front-end solutions that deliver exceptional user experiences.
 
 Driven by curiosity and a commitment to continuous improvement, I constantly explore new tools and best practices to stay ahead in the ever-evolving world of web development. Beyond the screen, I find inspiration through gaming and reading—activities that fuel my creativity and problem-solving mindset.
 
