@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hello! I'm a passionate Frontend Developer dedicated to crafting clean, responsive, and intuitive web interfaces. With a solid foundation in modern technologies and frameworks, I specialize in building scalable, high-performance front-end solutions that deliver exceptional user experiences.
 
-Driven by curiosity and a commitment to continuous improvement, I constantly explore new tools and best practices to stay ahead in the ever-evolving world of web development. Beyond the screen, I find inspiration through gaming and reading activities that fuel my creativity and problem-solving mindset.
+Driven by curiosity and a commitment to continuous improvement, I constantly explore new tools and best practices to stay ahead in the ever-evolving world of web development. Beyond the screen, I find inspiration through gaming and reading activities that fuel my creativity and problem solving mindset.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manoj-shrestha-43a64b177/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:stha8841@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/manoj_sthaa/) 
